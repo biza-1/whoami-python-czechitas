@@ -5,7 +5,7 @@ class Config:
   SQLALCHEMY_TRACK_MODIFICATIONS = False
   
   # Map center coordinates
-  MAP_CENTER = [1, 0]
+  MAP_CENTER = [0, 0]
 
   # Default map zoom, range 0-18
-  MAP_ZOOM = 4
+  MAP_ZOOM = 6
